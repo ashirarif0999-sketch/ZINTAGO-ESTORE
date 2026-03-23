@@ -1,0 +1,2163 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Premium Merino Wool Blazer",
+      "description": "Crafted from a premium merino wool-blend, this blazer from COS offers exceptional softness and natural breathability, ensuring comfort throughout the day. Its tailored fit strikes a perfect balance between structured elegance and ease of movement, making it versatile for both formal and smart-casual settings. Ideal for office meetings, evening events, or sophisticated weekend outings, it pairs seamlessly with tailored trousers or dark denim. Compared to traditional suit jackets, this blazer provides a modern silhouette with enhanced texture and durability, positioning it as a refined staple for a contemporary wardrobe.",
+      "type": "Cloth",
+      "color": "Brown",
+      "price": 189,
+      "originalPrice": 229,
+      "image": ["https://cdn.shopify.com/s/files/1/0732/8278/1488/files/Untitled-5_2e6c739a-9564-42a6-84b4-62169270a0ab_634x_crop_center.jpg?v=1756722140","https://cdn.shopify.com/s/files/1/0732/8278/1488/files/nwv_634x_crop_center.jpg?v=1756722152"],
+      "specs": {
+        "Material": "100% Merino Wool",
+        "Closure": "Dual-button",
+        "Lining": "Satin",
+        "Pockets": "4 exterior, 2 interior",
+        "Vent": "Double vent"
+      },
+      "features": ["Wrinkle-resistant", "Dry clean only", "Slim fit design", "Interior pocket stitching"],
+      "detailsTable": {
+        "Brand": "Luxe Formal",
+        "SKU": "LFB-001-BRN",
+        "Material": "Merino Wool",
+        "Care Instructions": "Dry clean only",
+        "Fit": "Slim fit",
+        "Closure": "Two-button",
+        "Pattern": "Solid",
+        "Weight": "680g"
+      },
+      "material": "Merino Wool",
+      "dimensions": {
+        "length": "28 inches",
+        "chest": "42 inches",
+        "shoulder": "17 inches",
+        "sleeve": "25 inches"
+      },
+      "weight": "680g",
+      "brand": "Luxe Formal",
+      "sku": "LFB-001-BRN",
+      "stockStatus": "In Stock",
+      "stockQuantity": 45,
+      "rating": 4.7,
+      "reviews": 128,
+      "reviewDetails": [
+        {
+          "id": "r1",
+          "author": "James Wilson",
+          "rating": 5,
+          "date": "2024-01-15",
+          "comment": "Excellent quality blazer! The wool is premium and the fit is perfect. I wear it to all my business meetings and always get compliments.",
+          "helpful": 24
+        },
+        {
+          "id": "r2",
+          "author": "Sarah Miller",
+          "rating": 4,
+          "date": "2024-01-10",
+          "comment": "Great blazer, very well made. The only reason for 4 stars is the sleeves were slightly long for me, but otherwise perfect.",
+          "helpful": 12
+        },
+        {
+          "id": "r3",
+          "author": "Michael Chen",
+          "rating": 5,
+          "date": "2024-01-05",
+          "comment": "Worth every penny! The satin lining is luxurious and the tailoring is impeccable. True to size as well.",
+          "helpful": 18
+        }
+      ],
+      "orders": 342,
+      "freeShipping": true,
+      "deliveryTiming": "7-15 days",
+      "supplier": {
+        "name": "Luxe Formal Textiles",
+        "location": "Italy",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "companyInfo": {
+        "description": "Leading manufacturer of premium formal wear since 1985. Specializing in high-quality suits, blazers, and formal accessories.",
+        "founded": "1985",
+        "employees": "200-500",
+        "certifications": ["ISO 9001", "ISO 14001", "Oeko-Tex Standard 100"],
+        "exportHistory": "Serving 30+ countries worldwide"
+      },
+      "priceTiers": [
+        { "range": "10-50pcs", "price": 170 },
+        { "range": "51-100pcs", "price": 160 },
+        { "range": "100+pcs", "price": 150 }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Urban Comfort Knitted Hoodie",
+      "description": "This cozy knitted hoodie features long sleeves, a comfortable fit, and convenient side pockets. Designed with both warmth and style in mind, it includes a soft, breathable knit and a classic hood for added comfort. Perfect for casual wear, layering, or lounging in style.",
+      "type": "Cloth",
+      "color": "Beige",
+      "price": 22,
+      "originalPrice": 29,
+      "image": ["https://www.femi9.com/media/catalog/product/cache/1b7444350d20437ffe2b60a051b4ee71/2/0/20250427_i_u_i_2521.jpg", "https://www.femi9.com/media/catalog/product/cache/1b7444350d20437ffe2b60a051b4ee71/a/3/a30a7997.jpg","https://www.femi9.com/media/catalog/product/cache/1b7444350d20437ffe2b60a051b4ee71/f/u/fu25-00000013casdfdvs.jpg"],
+      "specs": {
+        "Fabric": "Knitwear",
+        "Fabric composition": "88%VISCOSE 12%NYLON",
+        "Thickness": "LIGHT",
+        "Elasticity": "LIGHT STRETCH",
+        "Material": "88%VISCOSE 12%NYLON",
+        "Closure": "Pullover",
+        "Pocket": "Kangaroo pocket",
+        "Hood": "Adjustable drawstring"
+      },
+      "features": ["Machine washable", "Soft fleece interior", "Ribbed cuffs and hem", "Relaxed fit"],
+      "detailsTable": {
+        "Brand": "StreetStyle",
+        "SKU": "FU25-00000013",
+        "Fit type": "LOOSE",
+        "The style Length": "REGULAR",
+        "Material": "Cotton-Polyester Blend",
+        "Care Instructions": "Machine wash cold",
+        "Fit": "LOOSE",
+        "Pattern": "Solid",
+        "Weight": "350g"
+      },
+      "material": "88%VISCOSE 12%NYLON",
+      "dimensions": {
+        "length": "26 inches",
+        "chest": "44 inches",
+        "shoulder": "18 inches",
+        "sleeve": "24 inches"
+      },
+      "weight": "350g",
+      "brand": "StreetStyle",
+      "sku": "FU25-00000013",
+      "stockStatus": "In Stock",
+      "stockQuantity": 200,
+      "rating": 4.3,
+      "reviews": 89,
+      "reviewDetails": [
+        {
+          "id": "r4",
+          "author": "Emma Davis",
+          "rating": 5,
+          "date": "2024-02-20",
+          "comment": "So comfortable and warm! Perfect for chilly mornings. The quality is amazing for the price.",
+          "helpful": 31
+        },
+        {
+          "id": "r5",
+          "author": "Tom Anderson",
+          "rating": 4,
+          "date": "2024-02-15",
+          "comment": "Nice hoodie, true to size. The color is exactly as shown. Would recommend!",
+          "helpful": 8
+        }
+      ],
+      "orders": 567,
+      "freeShipping": true,
+      "deliveryTiming": "7-15 days",
+      "supplier": {
+        "name": "Urban Wear Co",
+        "location": "Vietnam",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "companyInfo": {
+        "description": "Modern streetwear brand creating comfortable, stylish apparel for the urban generation.",
+        "founded": "2015",
+        "employees": "100-200",
+        "certifications": ["ISO 9001", "OEKO-TEX"],
+        "exportHistory": "Serving 20+ countries globally"
+      },
+      "priceTiers": [
+        { "range": "50-100pcs", "price": 19 },
+        { "range": "101-200pcs", "price": 17 },
+        { "range": "200+pcs", "price": 15 }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Japanese Vintage Polar Fleece Jacket",
+      "description": "A cozy winter statement piece featuring advanced thermal insulation technology. Water-resistant outer shell with plush fleece lining keeps you warm in extreme cold. Includes removable hood,zippered pockets, and adjustable cuffs for customized fit.",
+      "type": "Cloth",
+      "color": "Blue",
+      "price": 145,
+      "originalPrice": 179,
+      "image": ["https://ae-pic-a1.aliexpress-media.com/kf/S565eca1509144a2985b623bea84bdde3J.jpg?has_lang=1&ver=2_960x960q75.jpg_.avif","https://ae-pic-a1.aliexpress-media.com/kf/S4322528a08204b2abdd991fcaf4e7ccaB.jpg_960x960q75.jpg_.avif", "https://ae-pic-a1.aliexpress-media.com/kf/Sf63a7b6418a845e3b7b155aaff1052d4k.jpg_960x960q75.jpg_.avif"],
+      "specs": {
+        "Type": "JACKETS",
+        "Material": "COTTON",
+        "Brand": "Bird Mountain",
+        "SKU": "APJ-003-BLU",
+        "Model Number": "2412114190",
+        "Closure Type": "Zipper",
+        "Pattern Type": "Solid",
+        "Collar": "Stand",
+        "Style": "chic",
+        "Gender": "Men",
+        "Stock": "In Stock"
+      },
+      "features": ["Removable hood", "Water-resistant", "Thermal insulation", "Multiple pockets"],
+      "detailsTable": {
+        "Brand": "Bird Mountain",
+        "Material": "COTTON",
+        "Lining Material": "POLYESTER",
+        "Thickness": "Fleece",
+        "Closure Type": "Zipper",
+        "Hooded": "No",
+        "Applicable Season": "Autumn And Winter",
+        "Gender": "Men"
+      },
+      "material": "COTTON",
+      "dimensions": {
+        "length": "30 inches",
+        "chest": "48 inches",
+        "shoulder": "19 inches",
+        "sleeve": "26 inches"
+      },
+      "weight": "890g",
+      "brand": "Bird Mountain",
+      "sku": "APJ-003-BLU",
+      "stockStatus": "In Stock",
+      "stockQuantity": 78,
+      "rating": 4.6,
+      "reviews": 203,
+      "reviewDetails": [
+        {
+          "id": "r6",
+          "author": "David Park",
+          "rating": 5,
+          "date": "2024-01-25",
+          "comment": "Best winter jacket I've ever owned! Keeps me warm even in -10°C weather. The fleece lining is so soft.",
+          "helpful": 45
+        },
+        {
+          "id": "r7",
+          "author": "Lisa Thompson",
+          "rating": 4,
+          "date": "2024-01-18",
+          "comment": "Great jacket, but runs a bit large. I'd recommend sizing down. Otherwise, excellent quality!",
+          "helpful": 22
+        },
+        {
+          "id": "r8",
+          "author": "Robert Kim",
+          "rating": 5,
+          "date": "2024-01-12",
+          "comment": "Water-resistant and warm! Perfect for my daily commute in snowy weather.",
+          "helpful": 19
+        }
+      ],
+      "orders": 421,
+      "freeShipping": true,
+      "deliveryTiming": "10-20 days",
+      "supplier": {
+        "name": "Winter Gear Ltd",
+        "location": "Canada",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "companyInfo": {
+        "description": "Canadian outdoor apparel brand designing premium winter gear for extreme conditions since 1998.",
+        "founded": "1998",
+        "employees": "300-500",
+        "certifications": ["ISO 9001", "Bluesign"],
+        "exportHistory": "Products available in 35+ countries"
+      },
+      "priceTiers": [
+        { "range": "20-50pcs", "price": 130 },
+        { "range": "51-100pcs", "price": 120 },
+        { "range": "100+pcs", "price": 110 }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Spigen RFID Blocking Wallet Slim Minimalist Credit Card Holder for Men and Women with Cash Strap - Black",
+      "description": "A slim, secure, and stylish biometric wallet with fingerprint unlock technology. Features RFID blocking to protect your cards from unauthorized scanning. Made from genuine leather with aluminum card holder. Perfect for the modern professional.",
+      "type": "Accessories",
+      "color": "Blue",
+      "price": 42,
+      "originalPrice": 55,
+      "image": ["https://m.media-amazon.com/images/I/617fzNgxFUL._SX679_.jpg","https://m.media-amazon.com/images/I/716aLo03VQL._SX679_.jpg","https://m.media-amazon.com/images/I/61UhNZSQFfL._SX679_.jpg","https://m.media-amazon.com/images/I/61SmEy0+jGL._SX679_.jpg","https://m.media-amazon.com/images/I/71KEBT9ckYL._SX679_.jpg","https://m.media-amazon.com/images/I/61B1wNX1LYL._SX679_.jpg","https://m.media-amazon.com/images/I/61zytis8l9L._SX679_.jpg"],
+      "specs": {
+        "Type": "RFID Blocking Wallet",
+        "Material": "Aluminium",
+        "Brand": "Spigen",
+        "SKU": "AMP02898",
+        "Model Name": "Wallet S",
+        "Closure Type": "Belt Strap",
+        "Wallet Card Slot Count": "12",
+        "Outer Material": "Aluminium",
+        "Item Weight": "65 Grams",
+        "Stock": "In Stock"
+      },
+      "features": ["Fingerprint unlock", "RFID blocking", "LED battery indicator", "USB-C charging"],
+      "detailsTable": {
+        "Brand": "Spigen",
+        "Model Number": "AMP02898",
+        "Material": "Aluminium",
+        "Closure Type": "Belt Strap",
+        "Wallet Card Slot Count": "12",
+        "Colour": "Black",
+        "Item Weight": "65 Grams",
+        "Country of Origin": "China"
+      },
+      "material": "Genuine Leather + Aluminum",
+      "dimensions": {
+        "length": "4.2 inches",
+        "width": "2.8 inches",
+        "depth": "0.5 inches"
+      },
+      "weight": "65g",
+      "brand": "Spigen",
+      "sku": "AMP02898",
+      "stockStatus": "In Stock",
+      "stockQuantity": 156,
+      "rating": 4.5,
+      "reviews": 167,
+      "reviewDetails": [
+        {
+          "id": "r25",
+          "author": "George Wilson",
+          "rating": 5,
+          "date": "2024-02-12",
+          "comment": "Super secure! The fingerprint works instantly and RFID blocking gives me peace of mind.",
+          "helpful": 28
+        },
+        {
+          "id": "r26",
+          "author": "Hannah Lewis",
+          "rating": 4,
+          "date": "2024-02-05",
+          "comment": "Sleek design, holds 8 cards easily. Battery lasts months. Great wallet!",
+          "helpful": 15
+        }
+      ],
+      "orders": 289,
+      "freeShipping": true,
+      "deliveryTiming": "10-18 days",
+      "supplier": {
+        "name": "Tech Accessories Inc",
+        "location": "South Korea",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "20-50pcs", "price": 38 },
+        { "range": "51-100pcs", "price": 35 },
+        { "range": "100+pcs", "price": 32 }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Chronograph Luxury Watch",
+      "description": "A luxury chronograph watch featuring a stainless steel case, sapphire crystal glass, and genuine leather strap. Water-resistant to 50m with precise Japanese quartz movement. Includes date display and stopwatch function.",
+      "type": "Accessories",
+      "color": "Silver",
+      "price": 129,
+      "originalPrice": 169,
+      "image": ["https://m.media-amazon.com/images/I/71yd5GXu+-L._SY741_.jpg", "https://m.media-amazon.com/images/I/818TgiHtZDL._SX569_.jpg","https://m.media-amazon.com/images/I/71CfDTTMHTL._SX679_.jpg"],
+      "specs": {
+        "Case Material": "Stainless Steel",
+        "Glass": "Sapphire crystal",
+        "Movement": "Japanese Quartz",
+        "Water Resistance": "50m"
+      },
+      "features": ["Chronograph function", "Date display", "Luminous hands", "Genuine leather strap"],
+      "detailsTable": {
+        "Brand": "Prestige Time",
+        "SKU": "PTW-005-SLV",
+        "Case Diameter": "42mm",
+        "Case Thickness": "11mm",
+        "Movement": "Quartz",
+        "Water Resistance": "50m",
+        "Warranty": "2 years",
+        "Weight": "120g"
+      },
+      "material": "Stainless Steel + Leather",
+      "dimensions": {
+        "caseDiameter": "42mm",
+        "caseThickness": "11mm",
+        "strapWidth": "20mm"
+      },
+      "weight": "120g",
+      "brand": "Prestige Time",
+      "sku": "PTW-005-SLV",
+      "stockStatus": "In Stock",
+      "stockQuantity": 34,
+      "rating": 4.8,
+      "reviews": 245,
+      "reviewDetails": [
+        {
+          "id": "r27",
+          "author": "Anthony Robinson",
+          "rating": 5,
+          "date": "2024-02-14",
+          "comment": "Gorgeous timepiece! The sapphire crystal shines beautifully. Got many compliments.",
+          "helpful": 42
+        },
+        {
+          "id": "r28",
+          "author": "Laura Young",
+          "rating": 5,
+          "date": "2024-02-08",
+          "comment": "Excellent quality, keeps perfect time. The leather strap is comfortable. Highly recommend!",
+          "helpful": 31
+        },
+        {
+          "id": "r29",
+          "author": "Brian King",
+          "rating": 4,
+          "date": "2024-02-01",
+          "comment": "Beautiful watch but the clasp is a bit tricky to use. Overall very satisfied.",
+          "helpful": 19
+        }
+      ],
+      "orders": 178,
+      "freeShipping": true,
+      "deliveryTiming": "14-21 days",
+      "supplier": {
+        "name": "Swiss Precision Watch Co",
+        "location": "Switzerland",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "companyInfo": {
+        "description": "Swiss luxury watchmaker crafting precision timepieces since 1920. Combining traditional craftsmanship with modern innovation.",
+        "founded": "1920",
+        "employees": "200-300",
+        "certifications": ["Swiss Made", "COSC", "ISO 764"],
+        "exportHistory": "Premium watches exported to 60+ countries"
+      },
+      "priceTiers": [
+        { "range": "5-20pcs", "price": 115 },
+        { "range": "21-50pcs", "price": 105 },
+        { "range": "50+pcs", "price": 95 }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Utility Cargo Pants",
+      "description": "Utility meets modern style with these versatile cargo pants. Made from durable cotton-twill fabric with water-resistant coating. Features multiple cargo pockets, reinforced knees, and adjustable ankle cuffs. Perfect for outdoor activities or urban exploration.",
+      "type": "Cloth",
+      "color": "Blue",
+      "price": 55,
+      "originalPrice": 69,
+      "image": ["https://m.media-amazon.com/images/I/5110urrvEFL._SX679_.jpg","https://m.media-amazon.com/images/I/5105ESghODL._SX679_.jpg","https://m.media-amazon.com/images/I/61+jQYVgrXL._SX679_.jpg","https://m.media-amazon.com/images/I/51hqH5FaH0L._SX679_.jpg"],
+      "specs": {
+        "Material": "Cotton Twill",
+        "Water Resistance": "DWR coating",
+        "Pockets": "8 functional pockets",
+        "Knee": "Reinforced knee pads"
+      },
+      "features": ["Water-resistant", "Multiple cargo pockets", "Adjustable cuffs", "Reinforced knees"],
+      "detailsTable": {
+        "Brand": "TrailBlazer",
+        "SKU": "TCP-006-BLU",
+        "Material": "Cotton twill",
+        "Care Instructions": "Machine wash cold",
+        "Fit": "Regular fit",
+        "Pockets": "8",
+        "Weight": "520g"
+      },
+      "material": "Cotton Twill",
+      "dimensions": {
+        "waist": "32 inches",
+        "inseam": "32 inches",
+        "rise": "12 inches"
+      },
+      "weight": "520g",
+      "brand": "TrailBlazer",
+      "sku": "TCP-006-BLU",
+      "stockStatus": "In Stock",
+      "stockQuantity": 89,
+      "rating": 4.4,
+      "reviews": 112,
+      "reviewDetails": [
+        {
+          "id": "r41",
+          "author": "Chris Johnson",
+          "rating": 5,
+          "date": "2024-02-18",
+          "comment": "Best cargo pants ever! Lots of pockets, great quality. Perfect for hiking.",
+          "helpful": 21
+        },
+        {
+          "id": "r42",
+          "author": "Amy Stevens",
+          "rating": 4,
+          "date": "2024-02-12",
+          "comment": "Solid pants, water-resistant. True to size. Love the reinforced knees!",
+          "helpful": 14
+        }
+      ],
+      "companyInfo": {
+        "description": "American outdoor and workwear brand creating durable, functional clothing since 1995.",
+        "founded": "1995",
+        "employees": "200-300",
+        "certifications": ["ISO 9001", "WRAP"],
+        "exportHistory": "Serving North America and Europe"
+      },
+      "orders": 234,
+      "freeShipping": true,
+      "deliveryTiming": "7-15 days",
+      "supplier": {
+        "name": "Outdoor Gear Pro",
+        "location": "USA",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "20-50pcs", "price": 49 },
+        { "range": "51-100pcs", "price": 45 },
+        { "range": "100+pcs", "price": 42 }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "pTron Studio Pro w/ 65Hrs Playtime, Wireless Over Ear Headphones w/HD Mic & TruTalk AI-ENC Calls, Low-Latency Game & Music, 40mm Drivers, BT5.4, Dual Device Pairing & Type-C Fast Charging (Beige)",
+      "description": "Studio Pro Over-Ear Bluetooth Wireless Headphones feature an Ergonomic Design and Soft Earpads for all-day Comfort, with an Adjustable Headband for a Perfect Fit.\n\n65 Hours Playtime on a Single Full Charge<br>\n40mm Drivers for Pristine Stereo Sound Quality<br>\nBuilt-in HD Mic + AI-ENC for Clear Calls<br>\nJust 2.5 hours charge via Type-C Charging (DC5V-1A max.)<br>\nSeamless Low-latency Gaming & Music Modes<br>\nFast Bluetooth v5.4 Wireless Headphones with Instant Pairing<br>\nEffortless Dual-device Pairing to Connect & Switch between Two Devices anytime<br>\nEnjoy Wireless Music via Bluetooth or Use the 3.5mm Aux-in Port<br>\nQuick Access to Voice Assistant<br>\nIPX4 Water-resistant Bluetooth Headphones built to Handle Sweat and Spills<br>\nFoldable Design for Easy Storage<br>\nEasy Controls - Manage Music & Calls with Multi-functional Buttons<br>\n6 Months Manufacturer Warranty from the Date of Purchase on Manufacturing Defects Only",
+      "type": "Audio",
+      "color": "Beige",
+      "price": 699,
+      "originalPrice": 2599,
+      "image": ["https://m.media-amazon.com/images/I/51oyBaXOGbL._SX679_.jpg","https://m.media-amazon.com/images/I/71GDPSDEYKL._SX679_.jpg","https://m.media-amazon.com/images/I/61fG1A7UQdL._SX679_.jpg", "https://m.media-amazon.com/images/I/61F0oSxJEAL._SX679_.jpg","https://m.media-amazon.com/images/I/61hawGdnB8L._SX679_.jpg","https://m.media-amazon.com/images/I/61Dhvzv7TaL._SL1200_.jpg","https://m.media-amazon.com/images/I/61J0crEL3gL._SL1200_.jpg","https://m.media-amazon.com/images/I/61oDSUDPPGL._SL1200_.jpg"],
+      "specs": {
+        "Type": "Over Ear Headphones",
+        "Brand": "pTron",
+        "Colour": "Beige",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohms",
+        "Stock": "In Stock"
+      },
+      "features": ["40-hour battery life", "Active noise cancellation", "Memory foam cushions", "Foldable design"],
+      "detailsTable": {
+        "Brand": "pTron",
+        "SKU": "Studio Pro",
+        "Colour": "Beige",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohms"
+      },
+      "material": "Premium Plastic + Memory Foam",
+      "dimensions": {
+        "earcupWidth": "7 inches",
+        "headband": "Adjustable"
+      },
+      "weight": "250g",
+      "brand": "pTron",
+      "sku": "Studio Pro",
+      "stockStatus": "In Stock",
+      "stockQuantity": 145,
+      "rating": 4.1,
+      "reviews": 321,
+      "reviewDetails": [
+        {
+          "id": "r20",
+          "author": "Jason Moore",
+          "rating": 5,
+          "date": "2024-02-08",
+          "comment": "Incredible sound quality! The noise cancellation is top-tier. Perfect for my daily commute.",
+          "helpful": 54
+        },
+        {
+          "id": "r21",
+          "author": "Sophie Clark",
+          "rating": 4,
+          "date": "2024-02-01",
+          "comment": "Great headphones but the ear cups are a bit small. Sound is excellent though!",
+          "helpful": 21
+        }
+      ],
+      "orders": 567,
+      "freeShipping": true,
+      "deliveryTiming": "7-12 days",
+      "supplier": {
+        "name": "Audio Tech Solutions",
+        "location": "China",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "companyInfo": {
+        "description": "Premium audio equipment manufacturer specializing in wireless headphones and speakers.",
+        "founded": "2012",
+        "employees": "500-1000",
+        "certifications": ["ISO 9001", "CE", "FCC", "RoHS"],
+        "exportHistory": "Global distribution in 40+ countries"
+      },
+      "priceTiers": [
+        { "range": "20-50pcs", "price": 71 },
+        { "range": "51-100pcs", "price": 65 },
+        { "range": "100+pcs", "price": 60 }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Denim Belt, Rustic Denim Corset Belt",
+      "description": "An everyday casual essential crafted from genuine full-grain leather. Features a solid brass buckle with antique finish and triple-row stitching for durability. Perfect complement to jeans or casual trousers.",
+      "type": "Accessories",
+      "color": "Blue",
+      "price": 38,
+      "originalPrice": 48,
+      "image": ["https://i.etsystatic.com/19089365/r/il/993f08/4640464926/il_794xN.4640464926_9nva.jpg","https://i.etsystatic.com/19089365/r/il/37980e/4640464930/il_794xN.4640464930_h0tf.jpg","https://i.etsystatic.com/19089365/r/il/738a0d/4640464960/il_794xN.4640464960_8r6w.jpg","https://i.etsystatic.com/19089365/r/il/f30261/4688709395/il_794xN.4688709395_mffc.jpg"],
+      "specs": {
+        "Material": "Full-grain leather",
+        "Buckle": "Solid brass",
+        "Width": "1.5 inches",
+        "Closure": "Prong buckle"
+      },
+      "features": ["Genuine leather", "Antique brass buckle", "Triple stitching", "Gift box included"],
+      "detailsTable": {
+        "Brand": "Heritage Leather",
+        "SKU": "HLB-008-BLU",
+        "Material": "Full-grain leather",
+        "Buckle": "Brass",
+        "Width": "1.5 inches",
+        "Length": "32-44 inches",
+        "Weight": "180g"
+      },
+      "material": "Full-grain Leather",
+      "dimensions": {
+        "width": "1.5 inches",
+        "length": "44 inches"
+      },
+      "weight": "180g",
+      "brand": "Heritage Leather",
+      "sku": "HLB-008-BLU",
+      "stockStatus": "In Stock",
+      "stockQuantity": 234,
+      "rating": 4.5,
+      "reviews": 178,
+      "reviewDetails": [
+        {
+          "id": "r43",
+          "author": "Tom Richards",
+          "rating": 5,
+          "date": "2024-02-14",
+          "comment": "Excellent belt! Full-grain leather is smooth and durable. The brass buckle is solid.",
+          "helpful": 18
+        },
+        {
+          "id": "r44",
+          "author": "Karen Hill",
+          "rating": 4,
+          "date": "2024-02-08",
+          "comment": "Great quality for the price. Looks dressy enough for work, casual enough for weekends.",
+          "helpful": 11
+        }
+      ],
+      "companyInfo": {
+        "description": "Family-owned leather goods company crafting belts and accessories since 1982.",
+        "founded": "1982",
+        "employees": "50-100",
+        "certifications": ["ISO 9001", "Leather Working Group"],
+        "exportHistory": "North American market leader"
+      },
+      "orders": 456,
+      "freeShipping": true,
+      "deliveryTiming": "7-14 days",
+      "supplier": {
+        "name": "Leather Works Co",
+        "location": "USA",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "30-60pcs", "price": 34 },
+        { "range": "61-100pcs", "price": 30 },
+        { "range": "100+pcs", "price": 28 }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Bohemian Tagine Pot - Handmade Ceramic Cookware",
+      "description": "Experience the authentic flavors of North African cuisine with our Bohemian Tagine Pot. Designed for both cooking and serving, it ensures even heat distribution for succulent, flavorful dishes. The conical lid allows steam to circulate, keeping your food moist and delicious. Bring a touch of Mediterranean heritage to your kitchen with this beautifully crafted tagine pot. Ideal for Moroccan dishes and as a stunning centerpiece, it's a must-have for any culinary enthusiast.",
+      "type": "Kitchen",
+      "color": "Bohemian Blue",
+      "price": 65,
+      "originalPrice": 85,
+      "image": ["https://i.etsystatic.com/13724640/r/il/c00fbf/6535604946/il_794xN.6535604946_8nio.jpg", "https://i.etsystatic.com/13724640/r/il/f2c8bf/6431985653/il_794xN.6431985653_csdv.jpg", "https://i.etsystatic.com/13724640/r/il/00e72c/6431987613/il_794xN.6431987613_96o7.jpg"],
+      "specs": {
+        "Material": "Ceramic (100% European fire clay)",
+        "Available Designs": ["Bohemian Blue", "Bohemian Turquoise", "Bohemian Red"],
+        "Sizes": {
+          "Medium": "10\" Diameter, 10\" Height",
+          "Large": "12\" Diameter, 12\" Height"
+        },
+        "Firing Temperature": "1050°C",
+        "Heat Source": "Stovetop, oven, microwave, dishwasher safe",
+        "Certification": "Lead-free, Eco-friendly, Fair Trade Certified"
+      },
+      "features": ["Handmade and hand-painted by skilled artisans in Tunisia", "100% European fire clay", "Vibrant mineral-based dyes", "Even heat distribution", "Conical lid for steam circulation", "Dishwasher safe", "Microwave safe", "Oven safe", "Lead-free", "Fair Trade Certified"],
+      "detailsTable": {
+        "Brand": "Kamsah",
+        "SKU": "MCT-009-BRN",
+        "Material": "Ceramic (European fire clay)",
+        "Origin": "Handmade in Tunisia",
+        "Firing Temperature": "1050°C",
+        "Care Instructions": "Hand wash with mild soap and warm water. Avoid harsh detergents. Dry completely before storing. For unglazed areas, occasionally season with olive oil and bake at low temperatures.",
+        "Usage Tips": "Start with low heat to prevent cracking. Use a heat diffuser on stovetops and avoid placing the hot tagine on cold surfaces. Perfect for slow-cooked stews and aromatic dishes.",
+        "Weight": "2.8 lbs"
+      },
+      "material": "Ceramic",
+      "dimensions": {
+        "diameter": "12 inches",
+        "height": "8 inches"
+      },
+      "weight": "2.8 lbs",
+      "brand": "Kamsah",
+      "sku": "MCT-009-BRN",
+      "stockStatus": "In Stock",
+      "stockQuantity": 28,
+      "rating": 4.7,
+      "reviews": 89,
+      "giftWrapping": true,
+      "reviewDetails": [
+        {
+          "id": "r45",
+          "author": "Maria Santos",
+          "rating": 5,
+          "date": "2024-01-28",
+          "comment": "Authentic tagine! Makes the most delicious slow-cooked meals. The recipe book is a nice bonus.",
+          "helpful": 25
+        },
+        {
+          "id": "r46",
+          "author": "John Parker",
+          "rating": 4,
+          "date": "2024-01-20",
+          "comment": "Beautiful handcrafted piece. Takes time to season but results are amazing!",
+          "helpful": 16
+        }
+      ],
+      "companyInfo": {
+        "description": "Traditional Moroccan artisan workshop handcrafting authentic cooking pottery since 1965.",
+        "founded": "1965",
+        "employees": "20-30",
+        "certifications": ["Fair Trade", "Handmade Certified"],
+        "exportHistory": "Exported to 15+ countries worldwide"
+      },
+      "orders": 123,
+      "freeShipping": true,
+      "deliveryTiming": "20-30 days",
+      "supplier": {
+        "name": "Artisan Kitchenware",
+        "location": "Tunisia",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "5-15pcs", "price": 58 },
+        { "range": "16-30pcs", "price": 52 },
+        { "range": "30+pcs", "price": 48 }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Digital Smart Thermos",
+      "description": "Keeps temperature perfect with this innovative smart thermos. Features LED temperature display, double-wall vacuum insulation, and 24-hour hot/48-hour cold retention. Includes built-in tea infuser and carabiner for easy carrying.",
+      "type": "Kitchen",
+      "color": "Black",
+      "price": 48,
+      "originalPrice": 59,
+      "image": ["https://img.drz.lazcdn.com/static/pk/p/639707a4cf4586103cc05b98c44affa1.jpg_720x720q80.jpg","https://img.drz.lazcdn.com/static/pk/p/ddd85c2c80e25d893da89dc5a2708727.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/5a852d7ac4b9737facca201d1751a052.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/39012e6c5e99fc0a23f1ad054124867d.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/c2afa10abb6baf7fd378e4f2be2e6d68.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/9f5fb262db3dba655c76237d3974e58b.jpg_720x720q80.jpg_.webp"],
+      "specs": {
+        "Material": "18/8 Stainless Steel",
+        "Capacity": "500ml",
+        "Temperature Display": "LED digital",
+        "Insulation": "Double-wall vacuum"
+      },
+      "features": ["LED temperature display", "24hr hot / 48hr cold", "Tea infuser included", "Carabiner clip"],
+      "detailsTable": {
+        "brand": "ThermoSmart",
+        "sku": "TST-010-BLK",
+        "Material": "18/8 Stainless Steel",
+        "Capacity": "500ml (17oz)",
+        "Hot Retention": "24 hours",
+        "Cold Retention": "48 hours",
+        "Display": "LED",
+        "Weight": "320g"
+      },
+      "material": "18/8 Stainless Steel",
+      "dimensions": {
+        "height": "9.5 inches",
+        "diameter": "2.8 inches"
+      },
+      "weight": "320g",
+      "brand": "ThermoSmart",
+      "sku": "TST-010-BLK",
+      "stockStatus": "In Stock",
+      "stockQuantity": 167,
+      "rating": 4.6,
+      "reviews": 234,
+      "reviewDetails": [
+        {
+          "id": "r47",
+          "author": "Kenji Tanaka",
+          "rating": 5,
+          "date": "2024-02-20",
+          "comment": "LED display is so convenient! Keeps drinks hot all day. Japanese quality is excellent.",
+          "helpful": 32
+        },
+        {
+          "id": "r48",
+          "author": "Lisa Wong",
+          "rating": 4,
+          "date": "2024-02-14",
+          "comment": "Great thermos, love the temperature display. The tea infuser is a nice touch!",
+          "helpful": 19
+        }
+      ],
+      "companyInfo": {
+        "description": "Japanese home appliance company specializing in innovative kitchen and beverage products.",
+        "founded": "2008",
+        "employees": "100-200",
+        "certifications": ["ISO 9001", "JIS", "CE"],
+        "exportHistory": "Global distribution in 30+ countries"
+      },
+      "orders": 445,
+      "freeShipping": true,
+      "deliveryTiming": "5-10 days",
+      "supplier": {
+        "name": "Home Innovation Co",
+        "location": "Japan",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "20-50pcs", "price": 43 },
+        { "range": "51-100pcs", "price": 39 },
+        { "range": "100+pcs", "price": 36 }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Smartwatch I7 Pro IWO I7 Pro Max Series",
+      "description": "The ultimate smartwatch with advanced health monitoring, GPS tracking, and seamless connectivity. Features always-on AMOLED display, 7-day battery life, and water resistance to 50m. Track your fitness, receive notifications, and control your smart home.",
+      "type": "Tech",
+      "color": "Black",
+      "price": 299,
+      "originalPrice": 349,
+      "image": ["https://images.priceoye.pk/i7-pro-44mm-smart-watch-pakistan-priceoye-u1ta4-500x500.webp","https://images.priceoye.pk/i7-pro-44mm-smart-watch-pakistan-priceoye-ufo0z-500x500.webp","https://priceoye-images.s3-accelerate.amazonaws.com/media/I7 Pro 44mm Smart Watch/3.jpg","https://images.priceoye.pk/i7-pro-44mm-smart-watch-pakistan-priceoye-bz07o-500x500.webp","https://images.priceoye.pk/i7-pro-44mm-smart-watch-pakistan-priceoye-st26b-500x500.webp","https://images.priceoye.pk/i7-pro-44mm-smart-watch-pakistan-priceoye-ldud6-500x500.webp"],
+      "specs": {
+        "Display": "1.4\" AMOLED",
+        "Battery": "7 days",
+        "Water Resistance": "50m",
+        "Sensors": "Heart rate, SpO2, GPS"
+      },
+      "features": ["Health monitoring", "GPS tracking", "Water resistant", "Smart notifications"],
+      "detailsTable": {
+        "Brand": "TechFit",
+        "SKU": "TFW-011-BLK",
+        "Display": "1.4\" AMOLED",
+        "Battery Life": "7 days",
+        "Water Resistance": "50m",
+        "Sensors": "HR, SpO2, GPS, Accelerometer",
+        "Connectivity": "Bluetooth 5.0, WiFi",
+        "Weight": "42g"
+      },
+      "material": "Aluminum + Silicone",
+      "dimensions": {
+        "caseSize": "44mm",
+        "thickness": "10.7mm"
+      },
+      "weight": "42g",
+      "brand": "TechFit",
+      "sku": "TFW-011-BLK",
+      "stockStatus": "In Stock",
+      "stockQuantity": 89,
+      "rating": 4.8,
+      "reviews": 567,
+      "reviewDetails": [
+        {
+          "id": "r9",
+          "author": "Alex Johnson",
+          "rating": 5,
+          "date": "2024-03-01",
+          "comment": "This smartwatch is incredible! Battery lasts all week, health tracking is accurate. Best purchase of the year!",
+          "helpful": 89
+        },
+        {
+          "id": "r10",
+          "author": "Maria Garcia",
+          "rating": 5,
+          "date": "2024-02-28",
+          "comment": "Love the always-on display and the fitness features. Perfect for tracking my workouts.",
+          "helpful": 56
+        },
+        {
+          "id": "r11",
+          "author": "Chris Lee",
+          "rating": 4,
+          "date": "2024-02-20",
+          "comment": "Great watch but the companion app could use some improvements. Hardware is top-notch though.",
+          "helpful": 34
+        },
+        {
+          "id": "r12",
+          "author": "Jennifer Smith",
+          "rating": 5,
+          "date": "2024-02-15",
+          "comment": "Finally a smartwatch that actually lasts! 7 days on a single charge is amazing.",
+          "helpful": 41
+        }
+      ],
+      "orders": 1234,
+      "freeShipping": true,
+      "deliveryTiming": "3-7 days",
+      "supplier": {
+        "name": "TechFit Electronics",
+        "location": "South Korea",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "companyInfo": {
+        "description": "Innovative tech company specializing in smart wearables and fitness technology. Leading the industry in health monitoring solutions.",
+        "founded": "2010",
+        "employees": "1000+",
+        "certifications": ["ISO 9001", "CE", "FCC", "RoHS"],
+        "exportHistory": "Products sold in 50+ countries"
+      },
+      "priceTiers": [
+        { "range": "10-30pcs", "price": 269 },
+        { "range": "31-60pcs", "price": 249 },
+        { "range": "60+pcs", "price": 229 }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "HP Victus 15 FA2082WM - Raptor Lake - 13th Gen Core i5 13420H Processor 16-GB 512-GB SSD 6-GB NVIDIA GeForce RTX 4050 GDDR6 GC 15.6'' Full HD 1080p IPS 144Hz 300nits MicroEdge AG Display B&O Play Backlit KB W11 (Mica Silver, NEW)",
+      "description": "A powerful professional laptop featuring 15.6\" 4K display, Intel Core i7 processor, 16GB RAM, and 512GB SSD. Perfect for video editing, graphic design, and intensive multitasking. Includes backlit keyboard and fingerprint reader.",
+      "type": "Tech",
+      "color": "Silver",
+      "price": 1299,
+      "originalPrice": 1499,
+      "image": ["https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/h/p/hp_victus_15_fa2082wn_laptop_pakistan_6_.jpg","https://www.paklap.pk/media/catalog/product/cache/702d85193f4c6af6bb773c850e52617f/h/p/hp_victus_15_fa2082wn_laptop_pakistan_2_.jpg","https://www.paklap.pk/media/catalog/product/cache/702d85193f4c6af6bb773c850e52617f/h/p/hp_victus_15_fa2082wn_laptop_pakistan_3_.jpg","https://www.paklap.pk/media/catalog/product/cache/702d85193f4c6af6bb773c850e52617f/h/p/hp_victus_15_fa2082wn_laptop_pakistan_4_.jpg","https://www.paklap.pk/media/catalog/product/cache/702d85193f4c6af6bb773c850e52617f/h/p/hp_victus_15_fa2082wn_laptop_pakistan_5_.jpg"],
+      "specs": {
+        "Processor": "Intel Core i7-11800H",
+        "RAM": "16GB DDR4",
+        "Storage": "512GB NVMe SSD",
+        "Display": "15.6\" 4K UHD"
+      },
+      "features": ["4K display", "Backlit keyboard", "Fingerprint reader", "Thunderbolt 4"],
+      "detailsTable": {
+        "Brand": "ProCompute",
+        "SKU": "PCL-012-SLV",
+        "Processor": "Intel Core i7-11800H",
+        "RAM": "16GB DDR4",
+        "Storage": "512GB NVMe SSD",
+        "Display": "15.6\" 4K UHD",
+        "Graphics": "NVIDIA RTX 3050 Ti",
+        "Weight": "1.9 kg"
+      },
+      "material": "Aluminum alloy",
+      "dimensions": {
+        "width": "14.1 inches",
+        "depth": "9.5 inches",
+        "height": "0.7 inches"
+      },
+      "weight": "1.9 kg",
+      "brand": "ProCompute",
+      "sku": "PCL-012-SLV",
+      "stockStatus": "In Stock",
+      "stockQuantity": 23,
+      "rating": 4.9,
+      "reviews": 189,
+      "reviewDetails": [
+        {
+          "id": "r13",
+          "author": "Kevin Zhang",
+          "rating": 5,
+          "date": "2024-02-10",
+          "comment": "Powerhouse laptop! Handles video editing and 3D rendering effortlessly. The 4K display is stunning.",
+          "helpful": 67
+        },
+        {
+          "id": "r14",
+          "author": "Amanda Brown",
+          "rating": 5,
+          "date": "2024-02-05",
+          "comment": "Perfect for my design work. The RTX 3050 Ti handles all my software smoothly. Worth the investment!",
+          "helpful": 43
+        },
+        {
+          "id": "r15",
+          "author": "Daniel White",
+          "rating": 5,
+          "date": "2024-01-28",
+          "comment": "Best laptop I've ever used. Fast, reliable, and the battery life is impressive.",
+          "helpful": 52
+        }
+      ],
+      "orders": 267,
+      "freeShipping": true,
+      "deliveryTiming": "5-12 days",
+      "supplier": {
+        "name": "ProCompute Technologies",
+        "location": "Taiwan",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "companyInfo": {
+        "description": "Premier laptop manufacturer specializing in high-performance computers for professionals and creatives.",
+        "founded": "2005",
+        "employees": "5000+",
+        "certifications": ["ISO 9001", "Energy Star", "EPEAT"],
+        "exportHistory": "Global presence in 40+ countries"
+      },
+      "priceTiers": [
+        { "range": "5-10pcs", "price": 1199 },
+        { "range": "11-25pcs", "price": 1099 },
+        { "range": "25+pcs", "price": 999 }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Nikon D780 DSLR Body Only, 83x Optical Zoom, Black",
+      "description": "A professional DSLR camera kit including 24.2MP sensor, 18-55mm kit lens, 75-300mm telephoto lens, camera bag, memory card, and lens filters. Perfect for photography enthusiasts and professionals alike.",
+      "type": "Tech",
+      "color": "Black",
+      "price": 899,
+      "originalPrice": 1099,
+      "image": ["https://m.media-amazon.com/images/I/81HSlXvojOL._SX679_.jpg","https://m.media-amazon.com/images/I/81DAv+r2-dL._SX679_.jpg","https://m.media-amazon.com/images/I/71oRArpRzbL._SX679_.jpg"],
+      "specs": {
+        "Sensor": "24.2MP APS-C CMOS",
+        "ISO Range": "100-25600",
+        "Video": "4K 30fps",
+        "Autofocus": "45-point cross-type"
+      },
+      "features": ["4K video recording", "Dual lens kit", "WiFi connectivity", "Articulating LCD"],
+      "detailsTable": {
+        "Brand": "PhotoPro",
+        "SKU": "PPK-013-BLK",
+        "Sensor": "24.2MP APS-C",
+        "ISO": "100-25600",
+        "Video": "4K 30fps",
+        "Autofocus": "45-point",
+        "Kit Lenses": "18-55mm + 75-300mm",
+        "Weight": "1.5 lbs (body)"
+      },
+      "material": "Polycarbonate with metal mount",
+      "dimensions": {
+        "bodyLength": "5.1 inches",
+        "bodyWidth": "3.8 inches",
+        "bodyHeight": "2.9 inches"
+      },
+      "weight": "1.5 lbs",
+      "brand": "PhotoPro",
+      "sku": "PPK-013-BLK",
+      "stockStatus": "In Stock",
+      "stockQuantity": 15,
+      "rating": 4.7,
+      "reviews": 145,
+      "reviewDetails": [
+        {
+          "id": "r32",
+          "author": "Catherine Scott",
+          "rating": 5,
+          "date": "2024-01-30",
+          "comment": "Perfect starter DSLR! The kit lenses are great. Got amazing photos right out of the box.",
+          "helpful": 38
+        },
+        {
+          "id": "r33",
+          "author": "Eric Nelson",
+          "rating": 4,
+          "date": "2024-01-22",
+          "comment": "Great camera for beginners. Menu is intuitive. Would love better low-light performance.",
+          "helpful": 21
+        }
+      ],
+      "orders": 189,
+      "freeShipping": true,
+      "deliveryTiming": "7-14 days",
+      "supplier": {
+        "name": "Photography Equipment Co",
+        "location": "Japan",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "3-8pcs", "price": 849 },
+        { "range": "9-15pcs", "price": 799 },
+        { "range": "15+pcs", "price": 749 }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Beats Studio Pro- Wireless Bluetooth Noise Cancelling Headphones - Spatial Audio, USB-C, Up to 40H Battery Life, 10 min Fast Charge for 4H Battery Life, Apple & Android Compatible - Black",
+      "description": "Premium noise cancelling headphones designed for studio professionals. Features advanced ANC technology, 40mm Beryllium drivers, and 35-hour battery life. Includes detachable cables and premium carrying case.",
+      "type": "Audio",
+      "color": "Black",
+      "price": 199,
+      "originalPrice": 249,
+      "image": ["https://m.media-amazon.com/images/I/51z1RxWPxtL._SX679_.jpg","https://m.media-amazon.com/images/I/61xLB8gceiL._SX679_.jpg","https://m.media-amazon.com/images/I/61k1C3jYKHL._SX679_.jpg","https://m.media-amazon.com/images/I/719q92S1AUL._SX679_.jpg","https://m.media-amazon.com/images/I/61nAzKxhu0L._SX679_.jpg","https://m.media-amazon.com/images/I/61ZgX+2I3AL._SX679_.jpg"],
+      "specs": {
+        "Driver": "40mm Beryllium",
+        "ANC": "Advanced hybrid",
+        "Battery": "35 hours",
+        "Frequency": "4Hz - 40kHz"
+      },
+      "features": ["Hybrid ANC", "Hi-Res Audio certified", "Detachable cables", "Premium case"],
+      "detailsTable": {
+        "Brand": "AudioStudio",
+        "SKU": "ASN-014-BLK",
+        "Driver": "40mm Beryllium",
+        "ANC": "Hybrid",
+        "Battery": "35 hours",
+        "Frequency": "4Hz - 40kHz",
+        "Impedance": "32 ohms",
+        "Weight": "290g"
+      },
+      "material": "Premium Plastic + Memory Foam",
+      "dimensions": {
+        "earcupSize": "3.5 inches"
+      },
+      "weight": "290g",
+      "brand": "AudioStudio",
+      "sku": "ASN-014-BLK",
+      "stockStatus": "In Stock",
+      "stockQuantity": 67,
+      "rating": 4.8,
+      "reviews": 289,
+      "reviewDetails": [
+        {
+          "id": "r34",
+          "author": "Michelle Carter",
+          "rating": 5,
+          "date": "2024-02-18",
+          "comment": "Studio-quality sound! The beryllium drivers make a huge difference. Best ANC headphones I've used.",
+          "helpful": 51
+        },
+        {
+          "id": "r35",
+          "author": "Andrew Mitchell",
+          "rating": 5,
+          "date": "2024-02-10",
+          "comment": "Worth the price! Comfortable for hours and the sound is absolutely crystal clear.",
+          "helpful": 33
+        },
+        {
+          "id": "r36",
+          "author": "Stephanie Perez",
+          "rating": 4,
+          "date": "2024-02-03",
+          "comment": "Excellent build quality. The case is premium. Sound is slightly bass-heavy but still great.",
+          "helpful": 17
+        }
+      ],
+      "orders": 456,
+      "freeShipping": true,
+      "deliveryTiming": "5-10 days",
+      "supplier": {
+        "name": "Studio Audio Solutions",
+        "location": "Germany",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "10-30pcs", "price": 179 },
+        { "range": "31-60pcs", "price": 165 },
+        { "range": "60+pcs", "price": 155 }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Samsung Galaxy S23 Ultra",
+      "description": "The latest flagship smartphone featuring 6.7\" Super Retina XDR display, A15 Bionic chip, triple camera system with LiDAR, and all-day battery life. Supports 5G, Face ID, and wireless charging.",
+      "type": "Tech",
+      "color": "Blue",
+      "price": 799,
+      "originalPrice": 899,
+      "image": ["https://images.priceoye.pk/samsung-galaxy-s23-ultra-pakistan-priceoye-5q93g-500x500.webp","https://images.priceoye.pk/samsung-galaxy-s23-ultra-pakistan-priceoye-bco3l-500x500.webp","https://images.priceoye.pk/samsung-galaxy-s23-ultra-pakistan-priceoye-a3se9-500x500.webp","https://images.priceoye.pk/samsung-galaxy-s23-ultra-pakistan-priceoye-2rqry-500x500.webp"],
+      "specs": {
+        "Display": "6.7\" Super Retina XDR",
+        "Processor": "A15 Bionic",
+        "Camera": "Triple 12MP + LiDAR",
+        "Battery": "4352mAh"
+      },
+      "features": ["5G capable", "Face ID", "Wireless charging", "Night mode camera"],
+      "detailsTable": {
+        "Brand": "SmartTech",
+        "SKU": "STX-015-BLU",
+        "Display": "6.7\" OLED",
+        "Processor": "A15 Bionic",
+        "RAM": "6GB",
+        "Storage": "128GB/256GB/512GB",
+        "Camera": "12MP Triple + LiDAR",
+        "Battery": "4352mAh",
+        "Weight": "238g"
+      },
+      "material": "Glass + Aluminum",
+      "dimensions": {
+        "height": "6.33 inches",
+        "width": "3.07 inches",
+        "depth": "0.30 inches"
+      },
+      "weight": "238g",
+      "brand": "SmartTech",
+      "sku": "STX-015-BLU",
+      "stockStatus": "In Stock",
+      "stockQuantity": 112,
+      "rating": 4.9,
+      "reviews": 678,
+      "reviewDetails": [
+        {
+          "id": "r16",
+          "author": "Rachel Green",
+          "rating": 5,
+          "date": "2024-03-05",
+          "comment": "Best smartphone I've ever owned! The camera is amazing, especially night mode. Battery easily lasts a full day.",
+          "helpful": 112
+        },
+        {
+          "id": "r17",
+          "author": "Steve Martinez",
+          "rating": 5,
+          "date": "2024-03-01",
+          "comment": "Super fast and smooth. Face ID works perfectly. The Super Retina display is gorgeous!",
+          "helpful": 78
+        },
+        {
+          "id": "r18",
+          "author": "Nina Patel",
+          "rating": 4,
+          "date": "2024-02-25",
+          "comment": "Great phone but expensive. However, the camera quality is unmatched. Worth the price if you love photography.",
+          "helpful": 45
+        },
+        {
+          "id": "r19",
+          "author": "Mike Taylor",
+          "rating": 5,
+          "date": "2024-02-18",
+          "comment": "The A15 chip makes everything lightning fast. 5G works great too. Best flagship phone!",
+          "helpful": 63
+        }
+      ],
+      "orders": 1567,
+      "freeShipping": true,
+      "deliveryTiming": "3-5 days",
+      "supplier": {
+        "name": "SmartTech Mobile",
+        "location": "South Korea",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "companyInfo": {
+        "description": "Global technology leader in smartphones, tablets, and consumer electronics. Innovation drives everything we do.",
+        "founded": "2000",
+        "employees": "10000+",
+        "certifications": ["ISO 9001", "ISO 14001", "CE", "FCC"],
+        "exportHistory": "Operating in 100+ countries worldwide"
+      },
+      "priceTiers": [
+        { "range": "20-50pcs", "price": 749 },
+        { "range": "51-100pcs", "price": 699 },
+        { "range": "100+pcs", "price": 649 }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "ZeeFu Convertible Sectional Sofa Couch,Classic 3 Seat L-Shaped Sofa with Movable Ottoman, Modern Dark Grey Velvet Fabric Upholstered Small Sectional Sofa Couch for Small Apartment Living Room Office",
+      "description": "A stunning modern sofa upholstered in premium velvet fabric. Features deep seats, gold-finished legs, and reversible chaise. Perfect for contemporary living rooms. Available in elegant beige.",
+      "type": "Interior",
+      "color": "Beige",
+      "price": 420,
+      "originalPrice": 520,
+      "image": ["https://m.media-amazon.com/images/I/81cRkQ1MURL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/61wbYe-SSIL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/81lIt-0RhIL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/91B5ioTFkHL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/81JWs4-pzPL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/81gFkebMWDL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/71qKN9f7tbL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71aPeRvbGcL._AC_SL1500_.jpg"],
+      "specs": {
+        "Upholstery": "Premium velvet",
+        "Frame": "Kiln-dried hardwood",
+        "Fill": "High-density foam",
+        "Legs": "Gold-finished metal"
+      },
+      "features": ["Reversible chaise", "Removable covers", "Stain-resistant", "5-year warranty"],
+      "detailsTable": {
+        "Brand": "LuxeHome",
+        "SKU": "LHS-016-BGE",
+        "Upholstery": "Velvet",
+        "Frame": "Hardwood",
+        "Seating": "5 seats",
+        "Dimensions": "112\" x 85\" x 34\"",
+        "Weight": "180 lbs"
+      },
+      "material": "Velvet + Hardwood",
+      "dimensions": {
+        "width": "112 inches",
+        "depth": "85 inches",
+        "height": "34 inches"
+      },
+      "weight": "180 lbs",
+      "brand": "LuxeHome",
+      "sku": "LHS-016-BGE",
+      "stockStatus": "In Stock",
+      "stockQuantity": 8,
+      "rating": 4.6,
+      "reviews": 78,
+      "reviewDetails": [
+        {
+          "id": "r22",
+          "author": "Olivia Turner",
+          "rating": 5,
+          "date": "2024-01-20",
+          "comment": "Absolutely stunning sofa! The velvet quality is exceptional and it's so comfortable. The gold legs add a touch of luxury.",
+          "helpful": 34
+        },
+        {
+          "id": "r23",
+          "author": "William Harris",
+          "rating": 4,
+          "date": "2024-01-12",
+          "comment": "Beautiful design and comfortable. Takes up quite a bit of space though. Make sure to measure your room!",
+          "helpful": 18
+        },
+        {
+          "id": "r24",
+          "author": "Emily Davis",
+          "rating": 5,
+          "date": "2024-01-08",
+          "comment": "Worth every penny! The reversible chaise is perfect for movie nights. Guests always compliment it.",
+          "helpful": 27
+        }
+      ],
+      "orders": 95,
+      "freeShipping": true,
+      "deliveryTiming": "14-21 days",
+      "supplier": {
+        "name": "Modern Furniture Co",
+        "location": "Italy",
+        "verified": true,
+        "shipping": "White glove delivery"
+      },
+      "companyInfo": {
+        "description": "Italian furniture designer and manufacturer creating modern, elegant pieces for discerning homes since 1975.",
+        "founded": "1975",
+        "employees": "150-200",
+        "certifications": ["ISO 9001", "FSC", "CE"],
+        "exportHistory": "Luxury furniture shipped to 25+ countries"
+      },
+      "priceTiers": [
+        { "range": "2-5pcs", "price": 399 },
+        { "range": "6-10pcs", "price": 379 },
+        { "range": "10+pcs", "price": 349 }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Scenekoy Alabaster Table Lamp Set of 2 with Night Light for Bedroom Living Room, 23'' Rotary Switch Bedside Lamp with Linen Shade, Modern Nightstand Lamps for Room Office Dorm (Bulb Included)",
+      "description": "An elegant ceramic lamp handcrafted by skilled artisans. Features a textured white ceramic base with linen shade. Creates warm, ambient lighting perfect for bedrooms, living rooms, or home offices.",
+      "type": "Interior",
+      "color": "White",
+      "price": 38,
+      "originalPrice": 48,
+      "image": ["https://m.media-amazon.com/images/I/71pgPJJc8FL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg","https://m.media-amazon.com/images/I/81381zmBLOL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/71h4N234P0L._AC_SX679_.jpg","https://m.media-amazon.com/images/I/71V5d8AWnrL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/61iCx4pdNQL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/71S5hVWZGjL._AC_SX679_.jpg"],
+      "specs": {
+        "Base": "Handcrafted ceramic",
+        "Shade": "Linen",
+        "Bulb": "E27, max 60W",
+        "Switch": "Inline on/off"
+      },
+      "features": ["Handcrafted design", "Natural materials", "Soft ambient light", "UL listed"],
+      "detailsTable": {
+        "Brand": "Artisan Lights",
+        "SKU": "ACL-017-WHT",
+        "Base": "Ceramic",
+        "Shade": "Linen",
+        "Height": "18 inches",
+        "Shade Diameter": "12 inches",
+        "Weight": "2.5 lbs"
+      },
+      "material": "Ceramic + Linen",
+      "dimensions": {
+        "height": "18 inches",
+        "shadeDiameter": "12 inches"
+      },
+      "weight": "2.5 lbs",
+      "brand": "Artisan Lights",
+      "sku": "ACL-017-WHT",
+      "stockStatus": "In Stock",
+      "stockQuantity": 45,
+      "rating": 4.4,
+      "reviews": 67,
+      "reviewDetails": [
+        {
+          "id": "r49",
+          "author": "Sofia Costa",
+          "rating": 5,
+          "date": "2024-01-22",
+          "comment": "Beautiful handcrafted lamp! The ceramic texture is gorgeous. Perfect ambient lighting.",
+          "helpful": 14
+        },
+        {
+          "id": "r50",
+          "author": "James Wright",
+          "rating": 4,
+          "date": "2024-01-15",
+          "comment": "Elegant design, nice quality. Takes a bit to assemble but looks stunning!",
+          "helpful": 8
+        }
+      ],
+      "companyInfo": {
+        "description": "Portuguese artisan lighting studio creating handcrafted ceramic lamps since 2005.",
+        "founded": "2005",
+        "employees": "10-20",
+        "certifications": ["CE", "UL Listed"],
+        "exportHistory": "Serving European and US markets"
+      },
+      "orders": 134,
+      "freeShipping": true,
+      "deliveryTiming": "10-18 days",
+      "supplier": {
+        "name": "Handmade Lighting Co",
+        "location": "Portugal",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "10-25pcs", "price": 34 },
+        { "range": "26-50pcs", "price": 30 },
+        { "range": "50+pcs", "price": 28 }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Morandi Color Ceramic Coffee Mugs Set of 6 (Large),18 oz Coffee Cups with Handle, Latte Mug, Big Mug for Women, Men, Great for Tea Hot Chocolate, Microwave Safe, Modern, Unique Style for Any Kitchen",
+      "description": "A beautifully crafted set of 4 coffee mugs made from premium stoneware. Features reactive glaze finish in creamy white, each piece unique. Microwave and dishwasher safe. Perfect for everyday use or special occasions.",
+      "type": "Kitchen",
+      "color": "White",
+      "price": 24,
+      "originalPrice": 32,
+      "image": ["https://m.media-amazon.com/images/I/61fH3O+p23L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71jW3a7c2wL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/713WS09WmKL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/610xeNiZ9-L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71P0880fsyL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/715LyaoMqjL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71zVCUEKEVL._AC_SL1500_.jpg"],
+      "specs": {
+        "Material": "Premium stoneware",
+        "Capacity": "12oz each",
+        "Finish": "Reactive glaze",
+        "Set": "4 pieces"
+      },
+      "features": ["Microwave safe", "Dishwasher safe", "Reactive glaze", "Set of 4"],
+      "detailsTable": {
+        "Brand": "Home Artisan",
+        "SKU": "HAC-018-WHT",
+        "Material": "Stoneware",
+        "Capacity": "12oz (350ml)",
+        "Quantity": "4 pieces",
+        "Microwave": "Yes",
+        "Dishwasher": "Yes",
+        "Weight": "2.8 lbs total"
+      },
+      "material": "Stoneware",
+      "dimensions": {
+        "height": "4 inches",
+        "diameter": "3.5 inches"
+      },
+      "weight": "2.8 lbs",
+      "brand": "Home Artisan",
+      "sku": "HAC-018-WHT",
+      "stockStatus": "In Stock",
+      "stockQuantity": 89,
+      "rating": 4.7,
+      "reviews": 156,
+      "reviewDetails": [
+        {
+          "id": "r51",
+          "author": "Yuki Yamamoto",
+          "rating": 5,
+          "date": "2024-02-05",
+          "comment": "Stunning mugs! The reactive glaze makes each one unique. Great for coffee lovers!",
+          "helpful": 22
+        },
+        {
+          "id": "r52",
+          "author": "Anna Kim",
+          "rating": 4,
+          "date": "2024-01-28",
+          "comment": "Beautiful set, nice weight. Perfect for my morning coffee. Highly recommend!",
+          "helpful": 15
+        }
+      ],
+      "companyInfo": {
+        "description": "Japanese ceramic studio creating artisan stoneware for home and restaurant since 1998.",
+        "founded": "1998",
+        "employees": "15-25",
+        "certifications": ["JIS", "FDA Approved"],
+        "exportHistory": "Exporting to 20+ countries worldwide"
+      },
+      "orders": 234,
+      "freeShipping": true,
+      "deliveryTiming": "15-25 days",
+      "supplier": {
+        "name": "Ceramic Arts Studio",
+        "location": "Japan",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "20-50pcs", "price": 21 },
+        { "range": "51-100pcs", "price": 18 },
+        { "range": "100+pcs", "price": 16 }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Balck Pottery Clay Pot for Cooking Combo 1, 2 & 3 Liter | Earthen Handi | Mud Kadai | Mittti Ke Barthan | Unglazed | Pre-Seasoned | Gas Stove Friendly",
+      "description": "A traditional unglazed terracotta pot perfect for slow-cooking beans, stews, and soups. Handmade by artisan potters using ancient techniques. Adds authentic earthy flavor to your dishes. Includes lid.",
+      "type": "Kitchen",
+      "color": "Brown",
+      "price": 19,
+      "originalPrice": 25,
+      "image": ["https://m.media-amazon.com/images/I/81w3JOWGBTL._SX679_.jpg","https://m.media-amazon.com/images/I/71o38dotsQL._SX679_.jpg","https://m.media-amazon.com/images/I/71sqdH3BngL._SX679_.jpg","https://m.media-amazon.com/images/I/81N8CoHQHOL._SL1500_.jpg","https://m.media-amazon.com/images/I/81CkaL4piyL._SL1500_.jpg","https://m.media-amazon.com/images/I/81e7Qx5LMaL._SL1500_.jpg"],
+      "specs": {
+        "Material": "Unglazed terracotta",
+        "Capacity": "2.5 quarts",
+        "Cooking": "Stovetop, oven, fire",
+        "Finish": "Natural unglazed"
+      },
+      "features": ["Handmade", "Adds earthy flavor", "Versatile cooking", "Natural materials"],
+      "detailsTable": {
+        "Brand": "TerraCook",
+        "SKU": "TCP-019-BRN",
+        "Material": "Terracotta",
+        "Capacity": "2.5 quarts",
+        "Heat Safe": "Up to 500°F",
+        "Soak": "30 min before use",
+        "Weight": "3.2 lbs"
+      },
+      "material": "Terracotta",
+      "dimensions": {
+        "diameter": "8 inches",
+        "height": "6 inches"
+      },
+      "weight": "3.2 lbs",
+      "brand": "TerraCook",
+      "sku": "TCP-019-BRN",
+      "stockStatus": "In Stock",
+      "stockQuantity": 34,
+      "rating": 4.5,
+      "reviews": 45,
+      "reviewDetails": [
+        {
+          "id": "r53",
+          "author": "Carlos Rodriguez",
+          "rating": 5,
+          "date": "2024-01-18",
+          "comment": "Authentic Mexican pottery! Makes the best beans and stews. Traditional quality.",
+          "helpful": 12
+        },
+        {
+          "id": "r54",
+          "author": "Elena Martinez",
+          "rating": 4,
+          "date": "2024-01-10",
+          "comment": "Great for slow cooking. Adds nice earthy flavor. Needs seasoning before first use.",
+          "helpful": 8
+        }
+      ],
+      "companyInfo": {
+        "description": "Mexican artisan pottery workshop preserving traditional clay cooking pot techniques.",
+        "founded": "1972",
+        "employees": "15-25",
+        "certifications": ["Handmade Certified", "Food Safe"],
+        "exportHistory": "Traditional pottery exported worldwide"
+      },
+      "orders": 78,
+      "freeShipping": true,
+      "deliveryTiming": "20-30 days",
+      "supplier": {
+        "name": "Traditional Pottery Co",
+        "location": "Mexico",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "10-25pcs", "price": 17 },
+        { "range": "26-50pcs", "price": 15 },
+        { "range": "50+pcs", "price": 13 }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Juicer Machines, 3-in-1 Cold Press Juicer with 6.5'' Extra Large Chute, 100oz Large Capacity, AC Motor, Makes Juice, Nut Milk & Sorbet, Premium Gray",
+      "description": "A professional-grade cold press juicer with slow masticating technology that preserves nutrients and enzymes. Features quiet motor, reverse function, and extra-wide feed chute. Extracts maximum juice from fruits and vegetables.",
+      "type": "Kitchen",
+      "color": "Silver",
+      "price": 85,
+      "originalPrice": 110,
+      "image": ["https://m.media-amazon.com/images/I/71g5Wkr8u4L._AC_SX679_.jpg","https://m.media-amazon.com/images/I/61GgUxL7ocL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71S8QdynzbL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/71qDvRWxJdL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/71NIUJSvEiL._AC_SX679_.jpg","https://m.media-amazon.com/images/I/71XSwnivaoL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71nP5uPaAWL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71CJkbSnVzL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71A25JUSM2L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71gg+jA+6ZL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71SvqHc-N8L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/713Z-a+84VL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71r8Aums5EL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71ekx5GOT-L._AC_SL1500_.jpg"],
+      "specs": {
+        "Type": "Slow masticating",
+        "Motor": "200W quiet",
+        "RPM": "80 RPM",
+        "Feed Chute": "3 inches wide"
+      },
+      "features": ["Cold press technology", "Quiet operation", "Reverse function", "Easy cleanup"],
+      "detailsTable": {
+        "Brand": "FreshPress",
+        "SKU": "FPJ-020-SLV",
+        "Type": "Masticating",
+        "Motor": "200W",
+        "RPM": "80",
+        "Capacity": "800ml",
+        "Warranty": "10 years",
+        "Weight": "8.5 lbs"
+      },
+      "material": "BPA-free plastic + Stainless steel",
+      "dimensions": {
+        "width": "7 inches",
+        "depth": "9 inches",
+        "height": "15 inches"
+      },
+      "weight": "8.5 lbs",
+      "brand": "FreshPress",
+      "sku": "FPJ-020-SLV",
+      "stockStatus": "In Stock",
+      "stockQuantity": 28,
+      "rating": 4.7,
+      "reviews": 189,
+      "orders": 234,
+      "freeShipping": true,
+      "deliveryTiming": "7-14 days",
+      "supplier": {
+        "name": "Healthy Kitchen Appliances",
+        "location": "South Korea",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "8-20pcs", "price": 76 },
+        { "range": "21-40pcs", "price": 70 },
+        { "range": "40+pcs", "price": 65 }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "ANEX STAND MIXER LARGE SIZE AG-820 ( 2 YEARS WARRANTY)",
+      "description": "A professional stand mixer with 5.5-quart capacity and 10-speed settings. Features tilt-head design, planetary mixing action, and includes multiple attachments. Perfect for baking enthusiasts.",
+      "type": "Kitchen",
+      "color": "White",
+      "price": 110,
+      "originalPrice": 139,
+      "image": ["https://img.drz.lazcdn.com/g/kf/S63ae8ef2cd2e4ed3ae6e4b7046fd4ef6l.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/g/kf/Sae18db3ab4b04d33a8ac0151946a447eM.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/g/kf/Sb5eaca702f694121b642d3a33ca3968fh.jpg_720x720q80.jpg_.webp"],
+      "specs": {
+        "Capacity": "5.5 quarts",
+        "Speeds": "10 settings",
+        "Motor": "325W",
+        "Bowl": "Stainless steel"
+      },
+      "features": ["Tilt-head design", "Planetary mixing", "Multiple attachments", "10-year warranty"],
+      "detailsTable": {
+        "Brand": "BakeMaster",
+        "SKU": "BBM-021-WHT",
+        "Capacity": "5.5 quarts",
+        "Motor": "325W",
+        "Speeds": "10",
+        "Bowl": "Stainless steel",
+        "Attachments": "Paddle, Whisk, Dough hook",
+        "Weight": "22 lbs"
+      },
+      "material": "Metal + Plastic",
+      "dimensions": {
+        "width": "14.6 inches",
+        "depth": "8.7 inches",
+        "height": "14 inches"
+      },
+      "weight": "22 lbs",
+      "brand": "BakeMaster",
+      "sku": "BBM-021-WHT",
+      "stockStatus": "In Stock",
+      "stockQuantity": 19,
+      "rating": 4.8,
+      "reviews": 267,
+      "reviewDetails": [
+        {
+          "id": "r37",
+          "author": "Donna Roberts",
+          "rating": 5,
+          "date": "2024-02-22",
+          "comment": "Best stand mixer I've ever owned! Powerful motor, multiple attachments included. Makes baking so much easier!",
+          "helpful": 44
+        },
+        {
+          "id": "r38",
+          "author": "Paul Walker",
+          "rating": 5,
+          "date": "2024-02-15",
+          "comment": "Commercial-quality at home. The tilt-head design is so convenient. Worth every penny!",
+          "helpful": 29
+        }
+      ],
+      "orders": 345,
+      "freeShipping": true,
+      "deliveryTiming": "5-10 days",
+      "supplier": {
+        "name": "Kitchen Appliance Co",
+        "location": "USA",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "5-15pcs", "price": 99 },
+        { "range": "16-30pcs", "price": 89 },
+        { "range": "30+pcs", "price": 82 }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "MAXYOYO Bean Bag Chair, Oversized Floral Shaped Bean Bag Sofa for Adults, Ultra Soft Faux Fur Floor Sofa, Large Stuffed Reading Chair for Living Room Bedroom, Beige",
+      "description": "A luxurious leather chair with classic club chair design. Handcrafted from top-grain leather with button-tufted back, rolled arms, and solid oak frame. Perfect for reading nooks and living rooms.",
+      "type": "Interior",
+      "color": "Brown",
+      "price": 145,
+      "originalPrice": 189,
+      "image": ["https://m.media-amazon.com/images/I/91NMijkD8sL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81DHZAG0ReL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/91i9E2y1EnL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81Z-KMVBPbL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81fOia9AAFL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/91xcu6kE3qL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/71ehbFgQX-L._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81ekhPWB6jL._AC_SL1500_.jpg","https://m.media-amazon.com/images/I/81KH6ybHeEL._AC_SL1500_.jpg"],
+      "specs": {
+        "Material": "Top-grain leather",
+        "Frame": "Kiln-dried oak",
+        "Fill": "High-resilience foam",
+        "Style": "Club chair"
+      },
+      "features": ["Handcrafted", "Premium leather", "Solid oak frame", "Lifetime warranty"],
+      "detailsTable": {
+        "Brand": "Classic Leather",
+        "SKU": "CLL-022-BRN",
+        "Material": "Top-grain leather",
+        "Frame": "Oak",
+        "Seat Height": "19 inches",
+        "Dimensions": "34\" x 36\" x 33\"",
+        "Weight": "65 lbs"
+      },
+      "material": "Top-grain Leather + Oak",
+      "dimensions": {
+        "width": "34 inches",
+        "depth": "36 inches",
+        "height": "33 inches"
+      },
+      "weight": "65 lbs",
+      "brand": "Classic Leather",
+      "sku": "CLL-022-BRN",
+      "stockStatus": "In Stock",
+      "stockQuantity": 12,
+      "rating": 4.9,
+      "reviews": 56,
+      "reviewDetails": [
+        {
+          "id": "r55",
+          "author": "Richard Boone",
+          "rating": 5,
+          "date": "2024-01-25",
+          "comment": "Absolutely stunning chair! The leather quality is exceptional. Perfect for my reading corner.",
+          "helpful": 19
+        },
+        {
+          "id": "r56",
+          "author": "Dorothy Lane",
+          "rating": 5,
+          "date": "2024-01-18",
+          "comment": "Worth every penny! Classic club chair design. The oak frame is solid and beautiful.",
+          "helpful": 14
+        }
+      ],
+      "companyInfo": {
+        "description": "American furniture maker specializing in premium leather chairs since 1978.",
+        "founded": "1978",
+        "employees": "50-100",
+        "certifications": ["ISO 9001", "BIFMA"],
+        "exportHistory": "Premium furniture across North America"
+      },
+      "orders": 78,
+      "freeShipping": true,
+      "deliveryTiming": "14-21 days",
+      "supplier": {
+        "name": "Heritage Furniture",
+        "location": "USA",
+        "verified": true,
+        "shipping": "White glove delivery"
+      },
+      "priceTiers": [
+        { "range": "3-8pcs", "price": 135 },
+        { "range": "9-15pcs", "price": 125 },
+        { "range": "15+pcs", "price": 115 }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Arc Floor Lamp for Living Room, 67'' Floor Lamp with, Tall Black LED Modern Floor Lamp, Bright, Curved Cool Unique Floor Lamps for Bedroom Office Home",
+      "description": "A contemporary arc floor lamp with sleek brass finish and linen shade. Features adjustable height and 360° swivel base. Creates perfect ambient lighting for living spaces.",
+      "type": "Interior",
+      "color": "White",
+      "price": 29,
+      "originalPrice": 39,
+      "image": ["https://img.drz.lazcdn.com/static/pk/p/f55e074d22fd3837859ad2444d9c7701.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/4c1755cc97506fdac187dc76f4811fe4.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/312e39a56a65e9b2bc8fd1c528b2b3a9.jpg_720x720q80.jpg_.webp"],
+      "specs": {
+        "Finish": "Brushed brass",
+        "Shade": "Linen",
+        "Height": "Adjustable 60-72\"",
+        "Base": "Marble"
+      },
+      "features": ["Adjustable height", "360° swivel", "Marble base", "E27 bulb"],
+      "detailsTable": {
+        "Brand": "Modern Light",
+        "SKU": "MLF-023-WHT",
+        "Finish": "Brass",
+        "Shade": "Linen",
+        "Height": "60-72 inches",
+        "Base": "Marble",
+        "Weight": "12 lbs"
+      },
+      "material": "Brass + Linen + Marble",
+      "dimensions": {
+        "height": "60-72 inches",
+        "shadeDiameter": "16 inches"
+      },
+      "weight": "12 lbs",
+      "brand": "Modern Light",
+      "sku": "MLF-023-WHT",
+      "stockStatus": "In Stock",
+      "stockQuantity": 34,
+      "rating": 4.5,
+      "reviews": 78,
+      "reviewDetails": [
+        {
+          "id": "r57",
+          "author": "Lars Jensen",
+          "rating": 5,
+          "date": "2024-02-10",
+          "comment": "Beautiful minimalist design! The marble base is heavy and stable. Perfect for living room.",
+          "helpful": 16
+        },
+        {
+          "id": "r58",
+          "author": "Emma Wilson",
+          "rating": 4,
+          "date": "2024-02-02",
+          "comment": "Great lamp, the brass finish is elegant. The adjustable height is very useful!",
+          "helpful": 11
+        }
+      ],
+      "companyInfo": {
+        "description": "Danish lighting design company creating contemporary lighting since 2010.",
+        "founded": "2010",
+        "employees": "20-30",
+        "certifications": ["CE", "UL", "Energy Star"],
+        "exportHistory": "Scandinavian design exported worldwide"
+      },
+      "orders": 123,
+      "freeShipping": true,
+      "deliveryTiming": "7-15 days",
+      "supplier": {
+        "name": "Lighting Design Co",
+        "location": "Denmark",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "10-25pcs", "price": 26 },
+        { "range": "26-50pcs", "price": 23 },
+        { "range": "50+pcs", "price": 21 }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Airpods Pro High bass TWS wireless earbuds Bluetooth earphone Water proof buds",
+      "description": "Premium truly wireless earbuds with active noise cancellation, transparency mode, and 24-hour total battery life with charging case. Features premium sound quality and comfortable fit for all-day wear.",
+      "type": "Audio",
+      "color": "White",
+      "price": 59,
+      "originalPrice": 79,
+      "image": ["https://img.drz.lazcdn.com/static/pk/p/60bffe82dcfef3a58558d53f836929a0.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/35344e53af8df5637ed84b508d0a8b7b.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/f45050688610f263d262ede4154be855.jpg_720x720q80.jpg_.webp","https://img.drz.lazcdn.com/static/pk/p/dfc8fe7846a7fa0f9790ddd78c209c39.jpg_720x720q80.jpg_.webp"],
+      "specs": {
+        "Driver": "8mm custom",
+        "ANC": "Active noise cancellation",
+        "Battery": "8hrs + 16hrs case",
+        "Codec": "AAC, aptX"
+      },
+      "features": ["ANC", "Transparency mode", "Touch controls", "Water resistant"],
+      "detailsTable": {
+        "Brand": "SoundBuds",
+        "SKU": "SBT-024-WHT",
+        "Driver": "8mm",
+        "Battery": "8 hours",
+        "ANC": "Yes",
+        "Water Resistance": "IPX4",
+        "Charging": "USB-C",
+        "Weight": "5g per earbud"
+      },
+      "material": "ABS + Silicone",
+      "dimensions": {
+        "earbudSize": "1.2 inches"
+      },
+      "weight": "5g",
+      "brand": "SoundBuds",
+      "sku": "SBT-024-WHT",
+      "stockStatus": "In Stock",
+      "stockQuantity": 234,
+      "rating": 4.6,
+      "reviews": 456,
+      "reviewDetails": [
+        {
+          "id": "r30",
+          "author": "Patricia Adams",
+          "rating": 5,
+          "date": "2024-03-02",
+          "comment": "Amazing sound quality! ANC works perfectly. Very comfortable for long listening sessions.",
+          "helpful": 67
+        },
+        {
+          "id": "r31",
+          "author": "Mark Thompson",
+          "rating": 4,
+          "date": "2024-02-25",
+          "comment": "Great earbuds but the case is a bit bulky. Sound is excellent though!",
+          "helpful": 23
+        }
+      ],
+      "orders": 789,
+      "freeShipping": true,
+      "deliveryTiming": "7-12 days",
+      "supplier": {
+        "name": "Audio Tech Global",
+        "location": "China",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "30-60pcs", "price": 53 },
+        { "range": "61-100pcs", "price": 48 },
+        { "range": "100+pcs", "price": 45 }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Eagle Original Hot & Cold Vacuum Flask Thermos | Double Glass Refill with Pure Fibre Body",
+      "description": "A premium vacuum insulated thermos flask that keeps drinks hot for 24 hours or cold for 48 hours. Made from 18/8 stainless steel with powder-coated finish. Includes leak-proof lid and built-in cup.",
+      "type": "Kitchen",
+      "color": "Black",
+      "price": 34,
+      "originalPrice": 42,
+      "image": "https://heavenofhomes.com/cdn/shop/files/IMG_E0380.jpg?v=1727111594&width=1946",
+      "specs": {
+        "Material": "18/8 Stainless steel",
+        "Capacity": "1L",
+        "Insulation": "Double-wall vacuum",
+        "Finish": "Powder-coated"
+      },
+      "features": ["24hr hot / 48hr cold", "Leak-proof", "Built-in cup", "BPA-free"],
+      "detailsTable": {
+        "Brand": "ThermoMax",
+        "SKU": "TMF-025-BLK",
+        "Material": "18/8 Stainless Steel",
+        "Capacity": "1L (34oz)",
+        "Hot": "24 hours",
+        "Cold": "48 hours",
+        "Weight": "580g"
+      },
+      "material": "18/8 Stainless Steel",
+      "dimensions": {
+        "height": "11 inches",
+        "diameter": "3.5 inches"
+      },
+      "weight": "580g",
+      "brand": "ThermoMax",
+      "sku": "TMF-025-BLK",
+      "stockStatus": "In Stock",
+      "stockQuantity": 156,
+      "rating": 4.7,
+      "reviews": 289,
+      "reviewDetails": [
+        {
+          "id": "r59",
+          "author": "Takeshi Yamamoto",
+          "rating": 5,
+          "date": "2024-02-15",
+          "comment": "Excellent thermos! Keeps drinks hot all day. Japanese quality is top-notch.",
+          "helpful": 28
+        },
+        {
+          "id": "r60",
+          "author": "Sarah Miller",
+          "rating": 4,
+          "date": "2024-02-08",
+          "comment": "Great insulation, leak-proof design. The built-in cup is convenient!",
+          "helpful": 17
+        }
+      ],
+      "companyInfo": {
+        "description": "Japanese manufacturer specializing in premium vacuum insulated drinkware.",
+        "founded": "2005",
+        "employees": "100-200",
+        "certifications": ["ISO 9001", "JIS", "BPA Free"],
+        "exportHistory": "Global distribution in 25+ countries"
+      },
+      "orders": 456,
+      "freeShipping": true,
+      "deliveryTiming": "5-10 days",
+      "supplier": {
+        "name": "Outdoor Drinkware Co",
+        "location": "Japan",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "20-50pcs", "price": 30 },
+        { "range": "51-100pcs", "price": 27 },
+        { "range": "100+pcs", "price": 25 }
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Razer BlackShark V2 X Gaming Headset - Black | 7.1 Surround Sound - 50mm Drivers - Memory Foam Cushion-for PC, PS4, PS5, Switch, Xbox One, Xbox Series X|S,Mobile-3.5mm Audio Jack -RZ04-03240100-R3M1",
+      "description": "A professional gaming headset with 7.1 surround sound, RGB lighting, and premium noise-cancelling microphone. Features memory foam ear cushions and adjustable headband for marathon gaming sessions.",
+      "type": "Audio",
+      "color": "Black",
+      "price": 92,
+      "originalPrice": 119,
+      "image": ["https://m.media-amazon.com/images/I/51vUMenoNkL._SX679_.jpg","https://m.media-amazon.com/images/I/61mCQDMhs7L._SX679_.jpg","https://m.media-amazon.com/images/I/61OO9UpKOFL._SX679_.jpg","https://m.media-amazon.com/images/I/719wVxD75QL._SX679_.jpg","https://m.media-amazon.com/images/I/71q3ahvTGcL._SX679_.jpg","https://m.media-amazon.com/images/I/71OyaTRRHQL._SL1500_.jpg","https://m.media-amazon.com/images/I/71mu6yNFejL._SL1500_.jpg"],
+      "specs": {
+        "Sound": "7.1 Surround",
+        "Driver": "50mm Neodymium",
+        "Microphone": "Detachable noise-cancel",
+        "Connection": "USB"
+      },
+      "features": ["7.1 surround", "RGB lighting", "Memory foam", "Detachable mic"],
+      "detailsTable": {
+        "Brand": "GameForce",
+        "SKU": "GFH-026-BLK",
+        "Sound": "7.1 Surround",
+        "Driver": "50mm Neodymium",
+        "Microphone": "Detachable",
+        "Lighting": "RGB",
+        "Connection": "USB",
+        "Weight": "320g"
+      },
+      "material": "ABS + Memory Foam",
+      "dimensions": {
+        "earcupSize": "4 inches"
+      },
+      "weight": "320g",
+      "brand": "GameForce",
+      "sku": "GFH-026-BLK",
+      "stockStatus": "In Stock",
+      "stockQuantity": 78,
+      "rating": 4.6,
+      "reviews": 345,
+      "reviewDetails": [
+        {
+          "id": "r61",
+          "author": "Kevin Chen",
+          "rating": 5,
+          "date": "2024-02-12",
+          "comment": "Best gaming headset for the price! 7.1 surround is amazing for competitive gaming.",
+          "helpful": 42
+        },
+        {
+          "id": "r62",
+          "author": "Gaming Pro Mike",
+          "rating": 4,
+          "date": "2024-02-05",
+          "comment": "Great sound quality and the RGB looks cool. Mic could be slightly better.",
+          "helpful": 25
+        }
+      ],
+      "companyInfo": {
+        "description": "Taiwan-based gaming peripherals manufacturer specializing in headsets, mice, and keyboards.",
+        "founded": "2014",
+        "employees": "200-300",
+        "certifications": ["ISO 9001", "CE", "FCC"],
+        "exportHistory": "Global gaming accessories distributor"
+      },
+      "orders": 567,
+      "freeShipping": true,
+      "deliveryTiming": "5-10 days",
+      "supplier": {
+        "name": "Gaming Peripherals Inc",
+        "location": "Taiwan",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "15-40pcs", "price": 82 },
+        { "range": "41-80pcs", "price": 75 },
+        { "range": "80+pcs", "price": 69 }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Microsoft Surface Pro 11 Bundle, 2-in-1 Tablet with Flex Keyboard and Slim Pen, Copilot+ PC, 13'' Touchscreen OLED Display, Windows 11 Pro, Black",
+      "description": "A powerful tablet featuring 11\" Liquid Retina display, M1 chip, and all-day battery life. Includes detachable keyboard with trackpad. Perfect for creative professionals and students.",
+      "type": "Tech",
+      "color": "Silver",
+      "price": 280,
+      "originalPrice": 349,
+      "image": ["https://m.media-amazon.com/images/I/512c07-j+BL._AC_SX425_.jpg","https://m.media-amazon.com/images/I/61AtZR023KL._AC_SX425_.jpg","https://m.media-amazon.com/images/I/61fd56LTPvL._AC_SX425_.jpg","https://m.media-amazon.com/images/I/61W87CO5p0L._AC_SX425_.jpg"],
+      "specs": {
+        "Display": "11\" Liquid Retina",
+        "Processor": "M1 chip",
+        "Storage": "128GB",
+        "Battery": "10 hours"
+      },
+      "features": ["M1 chip", "Keyboard with trackpad", "Apple Pencil support", "Face ID"],
+      "detailsTable": {
+        "Brand": "TabTech",
+        "SKU": "TTP-027-SLV",
+        "Display": "11\" Liquid Retina",
+        "Processor": "M1",
+        "Storage": "128GB",
+        "Battery": "10 hours",
+        "Camera": "12MP",
+        "Weight": "1.03 lbs"
+      },
+      "material": "Aluminum",
+      "dimensions": {
+        "height": "9.74 inches",
+        "width": "7.02 inches",
+        "depth": "0.23 inches"
+      },
+      "weight": "1.03 lbs",
+      "brand": "TabTech",
+      "sku": "TTP-027-SLV",
+      "stockStatus": "In Stock",
+      "stockQuantity": 45,
+      "rating": 4.8,
+      "reviews": 234,
+      "reviewDetails": [
+        {
+          "id": "r63",
+          "author": "Creative Professional",
+          "rating": 5,
+          "date": "2024-02-18",
+          "comment": "Perfect for digital artists! M1 chip handles all my apps smoothly. Keyboard is great!",
+          "helpful": 38
+        },
+        {
+          "id": "r64",
+          "author": "Student Life",
+          "rating": 5,
+          "date": "2024-02-10",
+          "comment": "Best tablet for students! Taking notes with Apple Pencil is amazing. Battery lasts all day.",
+          "helpful": 29
+        }
+      ],
+      "companyInfo": {
+        "description": "Korean tech company specializing in premium tablets and creative devices.",
+        "founded": "2012",
+        "employees": "500-1000",
+        "certifications": ["ISO 9001", "CE", "FCC"],
+        "exportHistory": "Global tablet market presence"
+      },
+      "orders": 345,
+      "freeShipping": true,
+      "deliveryTiming": "5-12 days",
+      "supplier": {
+        "name": "Tablet Innovations",
+        "location": "South Korea",
+        "verified": true,
+        "shipping": "Worldwide shipping"
+      },
+      "priceTiers": [
+        { "range": "10-25pcs", "price": 259 },
+        { "range": "26-50pcs", "price": 239 },
+        { "range": "50+pcs", "price": 219 }
+      ]
+    }
+  ]
+}
