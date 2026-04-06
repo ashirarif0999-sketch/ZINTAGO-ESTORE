@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, Outlet, useNavigate, useLocation } from 'react-router-dom';
 import { useCart } from './CartContext';
-import { X, Search, ShoppingCart, User, MessageSquare, Package, Menu, ChevronDown, ChevronLeft, Globe, Facebook, Twitter, Linkedin, Instagram, Youtube, Home, List as ListIcon, Heart, Headphones, Info, FileText, Users, Lock } from 'lucide-react';
+import { X, Search, ShoppingCart, User, MessageSquare, Package, Menu, ChevronDown, ChevronLeft, Globe, Facebook, Twitter, Linkedin, Instagram, Youtube, Home, List as ListIcon, Heart, Headphones, Info, FileText, Users, Lock, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import Lenis from 'lenis';
 import { mobileSearchControl } from './MobileSearch';
@@ -20,6 +20,7 @@ export default function Layout() {
   const [showOrdersDropdown, setShowOrdersDropdown] = useState(false);
   const [isOrdersLoading, setIsOrdersLoading] = useState(false);
   const [showMobileOrders, setShowMobileOrders] = useState(false);
+  const [showTip, setShowTip] = useState(false);
   const navigate = useNavigate();
   const location = useLocation();
   const lenisRef = useRef<Lenis | null>(null);
@@ -797,6 +798,32 @@ export default function Layout() {
           </>
         )}
       </AnimatePresence>
+
+      {/* Tip Icon and Tooltip */}
+      <div className="fixed bottom-4 right-4 z-50 hidden [@media(max-width:490px)]:block [@media(min-width:769px)]:block">
+        <button
+          onClick={() => setShowTip(!showTip)}
+          className="bg-primary text-white p-3 rounded-full shadow-lg hover:bg-primary-hover transition-colors"
+          aria-label="Show tip"
+        >
+          <HelpCircle size={24} />
+        </button>
+
+        <AnimatePresence>
+          {showTip && (
+            <motion.div
+              initial={{ opacity: 0, scale: 0.8, y: 10 }}
+              animate={{ opacity: 1, scale: 1, y: 0 }}
+              exit={{ opacity: 0, scale: 0.8, y: 10 }}
+              className="absolute bottom-full right-0 mb-2 w-[370px] bg-white border border-gray-200 rounded-lg shadow-lg p-4 text-sm text-gray-700"
+            >
+              <p>This project is a <b>mock-up</b> for <b>e-project-2</b>, showing how the e-project will perform.</p>
+              <p>It demonstrates what pages you can navigate to by performing various actions, such as browsing categories, searching products, adding to cart, and checking out.</p>
+              <div className="absolute top-full right-4 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-white"></div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+      </div>
     </div>
   );
 }
